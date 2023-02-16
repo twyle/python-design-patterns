@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# !/usr/bin/python3
 """This script adds and mutiplies two numbers."""
 
 from trial import generate_two_random_numbers
